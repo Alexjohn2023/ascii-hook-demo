@@ -1,13 +1,13 @@
-# 🚀 ASCII Hook Demo
+# ASCII Hook Demo
 
 ![Git](https://img.shields.io/badge/Git-Hooks-orange)
 ![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
 
-## 📌 Overview
+## Overview
 
 This project demonstrates a Git pre-commit hook that prevents committing files with non-ASCII filenames.
 
-## 🔐 Pre-Commit Hook
+##  Pre-Commit Hook
 
 The hook checks staged files and blocks commits if filenames contain non-ASCII characters.
 
